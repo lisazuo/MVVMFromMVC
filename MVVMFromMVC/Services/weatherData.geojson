@@ -1,0 +1,22 @@
+[
+    {
+        "locationName":"Beijing",
+        "latitude":39.9,
+        "longitude":116.3
+    },
+    {
+        "locationName":"Tokyo",
+        "latitude":35.41,
+        "longitude":139.44
+    },
+    {
+        "locationName":"Canada",
+        "latitude":41,
+        "longitude":-52
+    },
+    {
+        "locationName":"New zealand",
+        "latitude":-34,
+        "longitude":166
+    }
+]

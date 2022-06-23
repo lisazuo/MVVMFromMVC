@@ -1,0 +1,34 @@
+[
+    {
+        "iconName": "rainy.png",
+        "date":"1930.01.01",
+        "currentTemp":14,
+        "description":"Partly Rainy",
+        "latitude":39.9,
+        "longitude":116.3
+    },
+    {
+        "iconName": "sunny.png",
+        "date":"1930.01.01",
+        "currentTemp":30,
+        "description":"Sunny",
+        "latitude":35.41,
+        "longitude":139.44
+    },
+    {
+        "iconName": "sunnyTocloud.png",
+        "date":"1930.01.01",
+        "currentTemp":17,
+        "description":"sunnyTocloud",
+        "latitude":41,
+        "longitude":-52
+    },
+    {
+        "iconName": "sunnyToRain.png",
+        "date":"1930.01.01",
+        "currentTemp":19,
+        "description":"sunnyToRain",
+        "latitude":-34,
+        "longitude":166
+    }
+]
